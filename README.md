@@ -2,6 +2,7 @@
 In this repository, there are some uploaded materials: </br>
 1. List of study materials for quantum computing in excel </br>
 2. Mind map created by myself for quantum computing and quantum information </br>
+3. The folder [study notes](https://github.com/yangjy0826/Quantum-Study/tree/master/study%20notes) includes my study notes on Quantum Computing by hand.
 ***
 Some other informations that may help: </br>
 1. IBM QISKit tutorial wirtten by myself, including Bell State, Quantum Fourier Transform and Quantum Key Disribution.</br>
