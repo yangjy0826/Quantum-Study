@@ -3,7 +3,7 @@ In this repository, there are some uploaded materials: </br>
 1. [List of study materials](https://github.com/yangjy0826/Quantum-Study/blob/master/List%20of%20materials%20for%20quantum%20study.xlsx) for quantum computing in excel </br>
 2. [Mind map](https://github.com/yangjy0826/Quantum-Study/blob/master/Quantum%20Computing%20-%20Mind%20Map.png) created by myself for quantum computing and quantum information </br>
 3. The folder [study notes](https://github.com/yangjy0826/Quantum-Study/tree/master/study%20notes) includes my study notes on Quantum Computing by hand </br>
-4. My study notes for the quantum cryptography course on edX </br>
+4. My study notes for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
 To be added: slides </br>
 ***
 Some other informations that may help: </br>
