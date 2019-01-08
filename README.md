@@ -6,6 +6,7 @@ In this repository, there are some uploaded materials: </br>
     * [Notes for basic quantum computing knowledge](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/quantum%20computing.pdf)
     * [Notes for the IBM Quanrum Computing Lecture at KTH](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/IBM.pdf)
     * [Notes for studying quantum key distribution](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/qkd.pdf)
+    * [A sketch for BB84 protocol process](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/BB84%20process%20sketch.pdf) (quantum key distribution protocol based on no-cloning theorem)
 4. The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) of my presentation in quantum computing </br>
 5. My [study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
 ***
