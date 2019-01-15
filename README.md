@@ -9,7 +9,7 @@ All the materials that I do not specify are in English.
    * The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) of my presentation in quantum computing </br>
 ### 1.2 Simple Coding Based on Popular SDKs
    * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
-   * Installation IBM QISKit and implementation of the Bell State
+   * [Installation IBM QISKit and implementation of the Bell State](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_bell_state.ipynb)
 ## 2. Quantum Algorithms
 ### 2.1 Quantum Fourier Transform
    * [Notes](https://blog.csdn.net/m0_37622530/article/details/83032517) (in Chinese)
