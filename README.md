@@ -2,9 +2,9 @@
 All the materials that I do not specify are in English. 
 ## 1. Basic Quantum Computing Knowledge
 ### 1.1 Study Notes
-   * [Study Notes on basic quantum computing knowledge](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/quantum%20computing.pdf) (in Chinese)
+   * [Study notes on basic quantum computing knowledge](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/quantum%20computing.pdf) (in Chinese)
    * [Notes for the IBM Quanrum Computing Lecture at KTH](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/IBM.pdf) 
-   * [Study Notes on the Bell State](https://blog.csdn.net/m0_37622530/article/details/82991134) (in Chinese)
+   * [Study notes on the Bell State](https://blog.csdn.net/m0_37622530/article/details/82991134) (in Chinese)
 ### 1.2 Slides
    * The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) of my presentation in quantum computing </br>
 ### 1.3 Simple Coding Based on Popular SDKs
