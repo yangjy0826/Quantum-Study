@@ -13,10 +13,10 @@
 ### 2.1 Quantum Fourier Transform
    * Notes
    * Coding based on QISKit and Jupyter Notebook
-# 3. Quantum Cryptography
+## 3. Quantum Cryptography
    * [Study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
    * [Notes for studying quantum key distribution](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/qkd.pdf)
    * [A sketch for BB84 protocol process](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/BB84%20process%20sketch.pdf) (quantum key distribution protocol based on no-cloning theorem)
-# 4. Quantum Machine Learning
+## 4. Quantum Machine Learning
 ### 4.1 HHL Algorithm
    * [Study notes]()
