@@ -1,9 +1,9 @@
 # My Quantum Study Routine
-## 1. Basis Quantum Computing Knowledge
+## 1. Basic Quantum Computing Knowledge
 ### 1.1 Notes and Slides
    * [List of study materials](https://github.com/yangjy0826/Quantum-Study/blob/master/List%20of%20materials%20for%20quantum%20study.xlsx) for quantum computing in excel </br>
    * [Mind map](https://github.com/yangjy0826/Quantum-Study/blob/master/Quantum%20Computing%20-%20Mind%20Map.png) created by myself for quantum computing and quantum information </br>
-   * [Notes by hand](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/quantum%20computing.pdf) (in Chinese & English)
+   * [Notes on basic quantum computing knowledge](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/quantum%20computing.pdf) (in Chinese & English)
    * [Notes for the IBM Quanrum Computing Lecture at KTH](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/IBM.pdf) (in English)
    * The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) of my presentation in quantum computing </br>
 ### 1.2 Simple Coding Based on Popular SDKs
