@@ -18,7 +18,9 @@ All the materials that I do not specify are in English.
    * [Study Notes](https://blog.csdn.net/m0_37622530/article/details/83032517) (in Chinese)
    * [Coding based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QFT.ipynb)
 ## 3. Quantum Cryptography
+### 3.1 edX Quantum Cryptography course
    * [Study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
+### 3.2 Study Notes
    * [Notes for studying quantum key distribution](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/qkd.pdf)
    * [A sketch for BB84 protocol process](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/BB84%20process%20sketch.pdf) 
 ## 4. Quantum Machine Learning
