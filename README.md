@@ -21,7 +21,7 @@ All the materials that I do not specify are in English.
 ### 3.1 edX Quantum Cryptography course
    * [Study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
 ### 3.2 Study Notes
-   * [Notes for studying quantum key distribution](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/qkd.pdf)
+   * [Notes for studying quantum key distribution](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/qkd.pdf) (in Chinese)
    * [A sketch for BB84 protocol process](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/BB84%20process%20sketch.pdf) 
 ## 4. Quantum Machine Learning
 ### 4.1 HHL Algorithm
