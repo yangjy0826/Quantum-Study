@@ -7,7 +7,7 @@
    * [Notes for the IBM Quanrum Computing Lecture at KTH](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/IBM.pdf) (in English)
    * The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) of my presentation in quantum computing </br>
 ### 1.2 Simple Coding Based on Popular SDKs
-   * [Setup of Microsoft Q# and implementation of the Bell State]((https://github.com/yangjy0826/Microsoft-Q-))
+   * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
    * Installation IBM QISKit and implementation of the Bell State
 ## 2. Quantum Algorithms
 ### 2.1 Quantum Fourier Transform
