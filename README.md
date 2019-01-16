@@ -18,8 +18,8 @@ All the materials that I do not specify are in English.
    * [Study Notes](https://blog.csdn.net/m0_37622530/article/details/83032517) (in Chinese)
    * [Coding based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QFT.ipynb)
 ### 2.2 Quantum phase estimation
-## 3. Quantum Cryptography
    * [Study Notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/phase%20estimation.pdf)
+## 3. Quantum Cryptography
 ### 3.1 edX Quantum Cryptography course
    * [Study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
 ### 3.2 Study Notes
