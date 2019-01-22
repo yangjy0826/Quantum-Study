@@ -30,4 +30,5 @@ All the materials that I do not specify are in English.
 ### 5.1 Simple Coding Based on Popular SDKs
    * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
    * [Installation IBM QISKit and implementation of the Bell State](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_bell_state.ipynb)
-### 5.2 Notes for paper Optimization of Circuits for IBM's five-qubit Quantum Computers
+### 5.2 Notes for [paper Optimization of Circuits for IBM's five-qubit Quantum Computers](https://arxiv.org/pdf/1810.00129.pdf)
+This is a paper for the things we need to pay attention when running programs on IBM's quantum computer cloud service.
