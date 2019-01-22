@@ -7,10 +7,7 @@ All the materials that I do not specify are in English.
    * [Study notes on the Bell State](https://blog.csdn.net/m0_37622530/article/details/82991134) (in Chinese)
 ### 1.2 Slides
    * The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) of my presentation in quantum computing </br>
-### 1.3 Simple Coding Based on Popular SDKs
-   * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
-   * [Installation IBM QISKit and implementation of the Bell State](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_bell_state.ipynb)
-### 1.4 Others
+### 1.3 Others
    * [Mind map for quantum study](https://github.com/yangjy0826/Quantum-Study/blob/master/Quantum%20Computing%20-%20Mind%20Map.png) created by myself for quantum computing and quantum information </br>
    * [List of study materials](https://github.com/yangjy0826/Quantum-Study/blob/master/List%20of%20materials%20for%20quantum%20study.xlsx) for quantum computing in excel </br>
 ## 2. Quantum Algorithms
@@ -29,3 +26,8 @@ All the materials that I do not specify are in English.
 ## 4. Quantum Machine Learning
 ### 4.1 HHL Algorithm
    * [Study notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/HHL.pdf)
+## 5. Implementation and SDKs
+### 5.1 Simple Coding Based on Popular SDKs
+   * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
+   * [Installation IBM QISKit and implementation of the Bell State](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_bell_state.ipynb)
+### 5.2 Notes for paper Optimization of Circuits for IBM's five-qubit Quantum Computers
