@@ -15,16 +15,18 @@ All the materials that I do not specify are in English.
    * [Study notes](https://blog.csdn.net/m0_37622530/article/details/83032517) (in Chinese)
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QFT.ipynb)
 ### 2.2 Quantum phase estimation
+   * [Summary slides]()
    * [Hand-written Study Notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/phase%20estimation.pdf)
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QPE.ipynb)
 ## 3. Quantum Cryptography
 ### 3.1 edX Quantum Cryptography course
    * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
 ### 3.2 Study Notes
-   * [Hand-written notes for studying quantum key distribution](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/qkd.pdf) (in Chinese)
+   * [Hand-written notes for quantum key distribution](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/qkd.pdf) (in Chinese)
    * [A sketch for BB84 protocol process](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/BB84%20process%20sketch.pdf) 
 ## 4. Quantum Machine Learning
 ### 4.1 HHL Algorithm
+   * [Summary slides]()
    * [Hand-written study notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/HHL.pdf)
 ## 5. Implementation and SDKs
 ### 5.1 Simple Coding Based on Popular SDKs
