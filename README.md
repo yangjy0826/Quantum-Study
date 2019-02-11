@@ -34,5 +34,5 @@ All the materials that I do not specify are in English.
    * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
    * [Installation IBM QISKit and implementation of the Bell State](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_bell_state.ipynb)
 ### 5.2 Notes for papers
-   * [Notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/ibm-5qubits.pdf) for [Optimization of Circuits for IBM's five-qubit Quantum Computers](https://arxiv.org/pdf/1810.00129.pdf) </br>
+   * [Hand-written notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/ibm-5qubits.pdf) for [Optimization of Circuits for IBM's five-qubit Quantum Computers](https://arxiv.org/pdf/1810.00129.pdf) </br>
 This is a paper for the things we need to pay attention when running programs on IBM's quantum computer cloud service. Because of the hardware structure, we need to make some changes to the CNOT gates sometimes, and this paper is a guidance to that. My notes is a mathematical proof of why we can makes such changes to the circuits.
