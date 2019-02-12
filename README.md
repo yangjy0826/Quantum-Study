@@ -1,6 +1,6 @@
 # My Quantum Study Routine
 All the materials that I do not specify are in English. 
-## 1. Basic Quantum Computing Knowledge
+## 1. Basic Quantum Theory
 ### 1.1 Study Notes
    * [Study notes on basic quantum computing knowledge](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/quantum%20computing.pdf) (in Chinese)
    * [Notes for the IBM Quanrum Computing Lecture at KTH](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/IBM.pdf) 
