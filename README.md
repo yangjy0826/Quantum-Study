@@ -14,7 +14,7 @@ All the materials that I do not specify are in English.
 ### 2.1 Quantum Fourier transform
    * [Study notes](https://blog.csdn.net/m0_37622530/article/details/83032517) (in Chinese)
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QFT.ipynb)
-   * The [slides]() of my presentation on quantum Fourier transform and its applications </br>
+   * The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/The%20Quantum%20Fourier%20Transform%20and%20Its%20Applications.pdf) of my presentation on quantum Fourier transform and its applications </br>
 ### 2.2 Quantum phase estimation
    * [Summary slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/phase%20estimation%20notes%20-%20Claire%20.pdf)
    * [Hand-written Study Notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/phase%20estimation.pdf)
