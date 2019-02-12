@@ -28,7 +28,9 @@ All the materials that I do not specify are in English.
 ### 3.3 [Review paper](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/Quantum_Key_Distribution.pdf)
 A review paper that I wrote on quantum key distribution.
 ## 4. Quantum Machine Learning
-### 4.1 HHL Algorithm
+### 4.1 edX Quantum Cryptography course
+   * [Hand-written study notes and homework solutions]() for the [quantum]() course on edX </br>
+### 4.2 HHL Algorithm
    * [Summary slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/HHL%20notes%20-%20Claire.pdf)
    * [Hand-written study notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/HHL.pdf)
 ## 5. Implementation and SDKs
