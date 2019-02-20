@@ -32,10 +32,11 @@ A review paper that I wrote on quantum key distribution.
 List of books, papers and websites that I have read and recommend for quantum machine learning study.
 ### 4.2 edX Machine Learning course
    * [Hand-written study notes and homework solutions]() for the [quantum machine learning](https://courses.edx.org/courses/course-v1:University_of_TorontoX+UTQML101x+1T2019/course/) course on edX </br>
-### 4.3 HHL Algorithm
+### 4.3 Algorithms
+#### 4.3.1 HHL algorithm
    * [Summary slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/HHL%20notes%20-%20Claire.pdf)
    * [Hand-written study notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/HHL.pdf)
-### 4.4 qSVM
+#### 4.3.2 qSVM
 ## 5. Implementation and SDKs
 ### 5.1 Simple Coding Based on Popular SDKs
    * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
