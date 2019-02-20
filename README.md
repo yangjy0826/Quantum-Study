@@ -36,6 +36,7 @@ List of books, papers and websites that I have read and recommend for quantum ma
 #### 4.3.1 HHL algorithm
    * [Summary slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/HHL%20notes%20-%20Claire.pdf)
    * [Hand-written study notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/HHL.pdf)
+   * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_HHL_2by2.ipynb)
 #### 4.3.2 qSVM
 ## 5. Implementation and SDKs
 ### 5.1 Simple Coding Based on Popular SDKs
