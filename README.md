@@ -19,6 +19,7 @@ All the materials that I do not specify are in English.
    * [Summary slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/phase%20estimation%20notes%20-%20Claire%20.pdf)
    * [Hand-written Study Notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/phase%20estimation.pdf)
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QPE.ipynb)
+### 2.2 Grover's search algorithm
 ## 3. Quantum Cryptography
 ### 3.1 edX Quantum Cryptography course
    * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
