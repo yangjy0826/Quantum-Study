@@ -32,7 +32,7 @@ A review paper that I wrote on quantum key distribution.
 ### 4.1 [Literature list](https://github.com/yangjy0826/Quantum-Study/blob/master/literature%20list%20for%20QML.pdf) for quantum machine learning study
 List of books, papers and websites that I have read and recommend for quantum machine learning study.
 ### 4.2 edX Machine Learning course
-   * [Hand-written study notes and homework solutions]() for the [quantum machine learning](https://courses.edx.org/courses/course-v1:University_of_TorontoX+UTQML101x+1T2019/course/) course on edX </br>
+   * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-UToronto-QML) for the [quantum machine learning](https://courses.edx.org/courses/course-v1:University_of_TorontoX+UTQML101x+1T2019/course/) course on edX </br>
 ### 4.3 Algorithms
 #### 4.3.1 HHL algorithm
    * [Summary slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/HHL%20notes%20-%20Claire.pdf)
