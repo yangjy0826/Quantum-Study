@@ -9,6 +9,7 @@ All the materials that I do not specify are in English.
    * The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) of my presentation in quantum computing </br>
 ### 1.3 Others
    * [Mind map for quantum study](https://github.com/yangjy0826/Quantum-Study/blob/master/Quantum%20Computing%20-%20Mind%20Map.png) created by myself for quantum computing and quantum information </br>
+   This graph will be updated with my learning progress.
    * [List of study materials](https://github.com/yangjy0826/Quantum-Study/blob/master/List%20of%20materials%20for%20quantum%20study.xlsx) for quantum computing in excel </br>
 ## 2. Quantum Algorithms
 ### 2.1 Quantum Fourier transform
