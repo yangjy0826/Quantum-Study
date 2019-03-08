@@ -42,6 +42,7 @@ List of books, papers and websites that I have read and recommend for quantum ma
    * [Hand-written notes for explaning controlled rotation gate in HHL algorithm](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/controlled%20rotation%20in%20HHL.pdf)
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_HHL_2by2.ipynb)
    * [Code based on pyQuil and Jupyter Notebook](https://github.com/yangjy0826/pyquil/blob/master/Pyquil_HHL_2by2.ipynb)
+   * [Further experiments and discussions on HHL](https://github.com/yangjy0826/HHL_experiment)
 #### 4.3.2 qSVM
 ## 5. Implementation and SDKs
 ### 5.1 Simple Coding Based on Popular SDKs
