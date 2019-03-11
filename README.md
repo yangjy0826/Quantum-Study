@@ -6,7 +6,7 @@ All the materials that I do not specify are in English.
    * [Notes for the IBM Quanrum Computing Lecture at KTH](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/IBM.pdf) 
    * [Study notes on the Bell State](https://blog.csdn.net/m0_37622530/article/details/82991134) (in Chinese)
 ### 1.2 Slides
-   * The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) of my presentation in quantum computing </br>
+   * The [slide](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) for my presentation in quantum computing </br>
 ### 1.3 Others
    * [Mind map for quantum study](https://github.com/yangjy0826/Quantum-Study/blob/master/Quantum%20Computing%20-%20Mind%20Map.png) created by myself for quantum computing and quantum information </br>
    This graph will be updated with my learning progress.
@@ -14,16 +14,16 @@ All the materials that I do not specify are in English.
 ## 2. Quantum Algorithms
 ### 2.1 Quantum Fourier transform
    * [Study notes](https://blog.csdn.net/m0_37622530/article/details/83032517) (in Chinese)
-   * The [slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/The%20Quantum%20Fourier%20Transform%20and%20Its%20Applications.pdf) of my presentation on quantum Fourier transform and its applications </br>
+   * The [slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/The%20Quantum%20Fourier%20Transform%20and%20Its%20Applications.pdf) for my presentation on quantum Fourier transform and its applications </br>
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QFT.ipynb)
    * Further experiments and discussions on quantum Fourier transform
 ### 2.2 Quantum phase estimation
    Quantum phase estimation is an application of quantum Fourier transform.
-   * [Summary slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/phase%20estimation%20notes%20-%20Claire%20.pdf)
+   * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/phase%20estimation%20notes%20-%20Claire%20.pdf)
    * [Hand-written Study Notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/phase%20estimation.pdf)
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QPE.ipynb)
 ### 2.3 Grover's search algorithm and amplitude amplification
-   * [Summary slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/Grovers%20Search%20and%20Amplitude%20Amplification%20-%20Claire.pdf)
+   * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/Grovers%20Search%20and%20Amplitude%20Amplification%20-%20Claire.pdf)
 ## 3. Quantum Cryptography
 ### 3.1 edX Quantum Cryptography course
    * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
@@ -39,13 +39,14 @@ List of books, papers and websites that I have read and recommend for quantum ma
    * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-UToronto-QML) for the [quantum machine learning](https://courses.edx.org/courses/course-v1:University_of_TorontoX+UTQML101x+1T2019/course/) course on edX </br>
 ### 4.3 Algorithms
 #### 4.3.1 HHL algorithm
-   * [Summary slides](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/HHL%20notes%20-%20Claire.pdf)
+   * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/HHL%20notes%20-%20Claire.pdf)
    * [Hand-written study notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/HHL.pdf)
    * [Hand-written notes for explaning controlled rotation gate in HHL algorithm](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/controlled%20rotation%20in%20HHL.pdf)
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_HHL_2by2.ipynb)
    * [Code based on pyQuil and Jupyter Notebook](https://github.com/yangjy0826/pyquil/blob/master/Pyquil_HHL_2by2.ipynb)
    * [Further experiments and discussions on HHL](https://github.com/yangjy0826/HHL_experiment)
 #### 4.3.2 qSVM
+   * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/quantum%20SVM%20-%20Claire.pdf)
 ## 5. Implementation and SDKs
 ### 5.1 Simple Coding Based on Popular SDKs
    * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
