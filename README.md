@@ -24,29 +24,29 @@ All the materials that I do not specify are in English.
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QPE.ipynb)
 ### 2.3 Grover's search algorithm and amplitude amplification
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/Grovers%20Search%20and%20Amplitude%20Amplification%20-%20Claire.pdf)
-## 3. Quantum Cryptography
-### 3.1 edX Quantum Cryptography course
-   * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
-### 3.2 Study Notes
-   * [Hand-written notes for quantum key distribution](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/qkd.pdf) (in Chinese)
-   * [A sketch for BB84 protocol process](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/BB84%20process%20sketch.pdf) 
-### 3.3 [Review paper](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/Quantum_Key_Distribution.pdf)
-A review paper that I wrote on quantum key distribution.
-## 4. Quantum Machine Learning
-### 4.1 [Literature list](https://github.com/yangjy0826/Quantum-Study/blob/master/literature%20list%20for%20QML.pdf) for quantum machine learning study
+## 3. Quantum Machine Learning
+### 3.1 [Literature list](https://github.com/yangjy0826/Quantum-Study/blob/master/literature%20list%20for%20QML.pdf) for quantum machine learning study
 List of books, papers and websites that I have read and recommend for quantum machine learning study.
-### 4.2 edX Machine Learning course
+### 3.2 edX Machine Learning course
    * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-UToronto-QML) for the [quantum machine learning](https://courses.edx.org/courses/course-v1:University_of_TorontoX+UTQML101x+1T2019/course/) course on edX </br>
-### 4.3 Algorithms
-#### 4.3.1 HHL algorithm
+### 3.3 Algorithms
+#### 3.3.1 HHL algorithm
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/HHL%20notes%20-%20Claire.pdf)
    * [Hand-written study notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/HHL.pdf)
    * [Hand-written notes for explaning controlled rotation gate in HHL algorithm](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/controlled%20rotation%20in%20HHL.pdf)
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_HHL_2by2.ipynb)
    * [Code based on pyQuil and Jupyter Notebook](https://github.com/yangjy0826/pyquil/blob/master/Pyquil_HHL_2by2.ipynb)
    * [Further experiments and discussions on HHL](https://github.com/yangjy0826/HHL_experiment)
-#### 4.3.2 Quantum support vector machine (qSVM)
+#### 3.3.2 Quantum support vector machine (qSVM)
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/quantum%20SVM%20-%20Claire.pdf)
+## 4. Quantum Cryptography
+### 4.1 edX Quantum Cryptography course
+   * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
+### 4.2 Study Notes
+   * [Hand-written notes for quantum key distribution](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/qkd.pdf) (in Chinese)
+   * [A sketch for BB84 protocol process](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/BB84%20process%20sketch.pdf) 
+### 4.3 [Review paper](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/Quantum_Key_Distribution.pdf)
+A review paper that I wrote on quantum key distribution.
 ## 5. Implementation and SDKs
 ### 5.1 Simple Coding Based on Popular SDKs
    * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
