@@ -29,8 +29,8 @@ All the materials that I do not specify are in English.
 List of books, papers and websites that I have read and recommend for quantum machine learning study.
 ### 3.2 edX Machine Learning course
    * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-UToronto-QML) for the [quantum machine learning](https://courses.edx.org/courses/course-v1:University_of_TorontoX+UTQML101x+1T2019/course/) course on edX </br>
-### 3.3 Algorithms
-#### 3.3.1 HHL algorithm
+### 3.3 QML Algorithms
+#### 3.3.1 HHL algorithm (quantum algorithm for linear systems of equations)
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/HHL%20notes%20-%20Claire.pdf)
    * [Hand-written study notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/HHL.pdf)
    * [Hand-written notes for explaning controlled rotation gate in HHL algorithm](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/controlled%20rotation%20in%20HHL.pdf)
