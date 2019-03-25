@@ -39,9 +39,11 @@ List of books, papers and websites that I have read and recommend for quantum ma
    * [Hand-written notes for explaning controlled rotation gate in HHL algorithm](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/controlled%20rotation%20in%20HHL.pdf)
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_HHL_2by2.ipynb)
    * [Code based on pyQuil and Jupyter Notebook](https://github.com/yangjy0826/pyquil/blob/master/Pyquil_HHL_2by2.ipynb)
-   * [Further experiments and discussions on HHL](https://github.com/yangjy0826/HHL_experiment)
+   * [Further experiments and discussions on HHL accuracy](https://github.com/yangjy0826/HHL_experiment)
+   * [Discussion and code](https://github.com/yangjy0826/HHL_generate_unitary_operator) on how to enact the unitary operator (given matrix A) in the HHL implementation.
 #### 4.3.2 Quantum support vector machine (qSVM)
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/quantum%20SVM%20-%20Claire.pdf)
+   * [Code based on pyQuil and Jupyter Notebook]()
 ## 5. Quantum Cryptography
 ### 5.1 edX Quantum Cryptography course
    * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
