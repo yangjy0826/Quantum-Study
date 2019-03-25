@@ -54,7 +54,7 @@ List of books, papers and websites that I have read and recommend for quantum ma
 ### 5.3 [Review paper](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/Quantum_Key_Distribution.pdf)
 A review paper that I wrote on quantum key distribution.
 ## 6. Implementation and SDKs
-### 6.1 Simple Coding Based on Popular SDKs
+### 6.1 Setup and Simple Coding Based on Popular SDKs
    * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
    * [Installation of IBM QISKit and implementation of the Bell State](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_bell_state.ipynb)
    * [Installation of Pyquil and implementation of the Bell State](https://github.com/yangjy0826/pyquil/blob/master/Pyquil%20Installation%20and%20the%20Bell%20State.ipynb)
