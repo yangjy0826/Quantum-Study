@@ -43,7 +43,7 @@ List of books, papers and websites that I have read and recommend for quantum ma
    * [Discussion and code](https://github.com/yangjy0826/HHL_generate_unitary_operator) on how to enact the unitary operator (given matrix A) in the HHL implementation.
 #### 4.3.2 Quantum support vector machine (qSVM)
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/quantum%20SVM%20-%20Claire.pdf)
-   * [Explaination slide for the implementation](https://github.com/yangjy0826/quantum_SVM/blob/master/quantum%20SVM%20-%20implementation.pdf)
+   * [Explanation slide for the implementation](https://github.com/yangjy0826/quantum_SVM/blob/master/quantum%20SVM%20-%20implementation.pdf)
    * [Code based on pyQuil and Jupyter Notebook](https://github.com/yangjy0826/quantum_SVM/tree/master/Experiment)
 ## 5. Quantum Cryptography
 ### 5.1 edX Quantum Cryptography course
