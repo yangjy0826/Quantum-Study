@@ -1,4 +1,4 @@
-# My Quantum Study Routine
+# Quantum Computing
 All the materials that I do not specify are in English. 
 ## 1. Basic Quantum Theory
 ### 1.1 Study Notes
