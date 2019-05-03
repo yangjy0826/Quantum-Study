@@ -51,7 +51,7 @@ List of books, papers and websites that I have read and recommend for quantum ma
 ### 4.3 [Review paper](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/Quantum_Key_Distribution.pdf)
 A review paper that I wrote on quantum key distribution.
 ## 5. Quantum Tomography
-   * [Code based on Pyquil and Forest-benchmarking](https://github.com/yangjy0826/pyquil-quantum-tomography/blob/master/QSVM-Step2-tomography.ipynb) 
+   * [Code based on Pyquil and Forest-benchmarking](https://github.com/yangjy0826/pyquil-quantum-tomography/blob/master/QSVM-Step2-tomography.ipynb) (Used after quantum SVM)
 ## 6. Implementation and SDKs
 ### 6.1 Setup and Simple Coding Based on Popular SDKs
    * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
