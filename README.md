@@ -13,7 +13,7 @@ All the materials that I do not specify are in English.
 ## 2. Quantum Algorithms
 ### 2.1 Quantum Fourier transform
    * [Study notes](https://blog.csdn.net/m0_37622530/article/details/83032517) (in Chinese)
-   * The [slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/The%20Quantum%20Fourier%20Transform%20and%20Its%20Applications.pdf) for my presentation on quantum Fourier transform and its applications </br>
+   * The [slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/The%20Quantum%20Fourier%20Transform%20and%20Its%20Applications.pdf) for quantum Fourier transform </br>
    * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QFT.ipynb)
    * Further experiments and discussions on quantum Fourier transform
 ### 2.2 Quantum phase estimation
