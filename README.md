@@ -14,13 +14,12 @@ All the materials that I do not specify are in English.
 ### 2.1 Quantum Fourier transform
    * [Study notes](https://blog.csdn.net/m0_37622530/article/details/83032517) (in Chinese)
    * The [slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/The%20Quantum%20Fourier%20Transform%20and%20Its%20Applications.pdf) for quantum Fourier transform </br>
-   * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QFT.ipynb)
-   * Further experiments and discussions on quantum Fourier transform
+   * [Code](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QFT.ipynb) based on QISKit
 ### 2.2 Quantum phase estimation
    Quantum phase estimation is an application of quantum Fourier transform.
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/phase%20estimation%20notes%20-%20Claire%20.pdf)
    * [Hand-written Study Notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/phase%20estimation.pdf)
-   * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QPE.ipynb)
+   * [Code](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QPE.ipynb) based on QISKit
 ### 2.3 Grover's search algorithm and amplitude amplification
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/Grovers%20Search%20and%20Amplitude%20Amplification%20-%20Claire.pdf)
 ## 3. Quantum Machine Learning
