@@ -9,11 +9,11 @@ All the materials that I do not specify are in English.
    * [Mind map for quantum study](https://github.com/yangjy0826/Quantum-Study/blob/master/Quantum%20Computing%20-%20Mind%20Map.png) created by myself for quantum computing and quantum information </br>
    This graph will be updated with my learning progress.
    * [List of study materials](https://github.com/yangjy0826/Quantum-Study/blob/master/List%20of%20materials%20for%20quantum%20study.xlsx) for quantum computing in excel </br>
-   * The [slide](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) for basic quantum computing </br>
+   * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/quantum%20computing%20slides.pdf) of basic quantum computing </br>
 ## 2. Quantum Algorithms
 ### 2.1 Quantum Fourier transform
    * [Study notes](https://blog.csdn.net/m0_37622530/article/details/83032517) (in Chinese)
-   * The [slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/The%20Quantum%20Fourier%20Transform%20and%20Its%20Applications.pdf) for quantum Fourier transform </br>
+   * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/The%20Quantum%20Fourier%20Transform%20and%20Its%20Applications.pdf) </br>
    * [Code](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_QFT.ipynb) based on QISKit
 ### 2.2 Quantum phase estimation
    Quantum phase estimation is an application of quantum Fourier transform.
@@ -32,14 +32,14 @@ List of books, papers and websites that I have read and recommend for quantum ma
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/HHL%20notes%20-%20Claire.pdf)
    * [Hand-written study notes](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/HHL.pdf)
    * [Hand-written notes for explaning controlled rotation gate in HHL algorithm](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/controlled%20rotation%20in%20HHL.pdf)
-   * [Code based on QISKit and Jupyter Notebook](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_HHL_2by2.ipynb)
-   * [Code based on pyQuil and Jupyter Notebook](https://github.com/yangjy0826/pyquil/blob/master/Pyquil_HHL_2by2.ipynb)
+   * [Code](https://github.com/yangjy0826/IBM-QISKit/blob/master/qiskit_HHL_2by2.ipynb) based on QISKit
+   * [Code](https://github.com/yangjy0826/pyquil/blob/master/Pyquil_HHL_2by2.ipynb) based on pyQuil
    * [Further experiments and discussions on HHL accuracy](https://github.com/yangjy0826/HHL_experiment)
    * [Discussion and code](https://github.com/yangjy0826/HHL_generate_unitary_operator) on how to enact the unitary operator (given matrix A) in the HHL implementation.
 #### 3.3.2 Quantum support vector machine (qSVM)
    * [Summary slide](https://github.com/yangjy0826/Quantum-Study/blob/master/summary%20slides/quantum%20SVM%20-%20Claire.pdf)
    * [Explanation slide for the implementation](https://github.com/yangjy0826/quantum_SVM/blob/master/quantum%20SVM%20-%20implementation.pdf)
-   * [Code based on pyQuil and Jupyter Notebook](https://github.com/yangjy0826/quantum_SVM/tree/master/Experiment)
+   * [Code](https://github.com/yangjy0826/quantum_SVM/tree/master/Experiment) based on pyQuil
 ## 4. Quantum Cryptography
 ### 4.1 edX Quantum Cryptography course
    * [Hand-written study notes and homework solutions](https://github.com/yangjy0826/Quantum-Study/tree/master/edX-CaltechDelft-Quantum-Cryptography) for the [quantum cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course on edX </br>
@@ -49,7 +49,7 @@ List of books, papers and websites that I have read and recommend for quantum ma
 ### 4.3 [Review paper](https://github.com/yangjy0826/Quantum-Study/blob/master/study%20notes/Quantum_Key_Distribution.pdf)
 A review paper that I wrote on quantum key distribution.
 ## 5. Quantum Tomography
-   * [Code based on Pyquil and Forest-benchmarking](https://github.com/yangjy0826/pyquil-quantum-tomography/blob/master/QSVM-Step2-tomography.ipynb) (Used after quantum SVM)
+   * [Code](https://github.com/yangjy0826/pyquil-quantum-tomography/blob/master/QSVM-Step2-tomography.ipynb) based on Pyquil and Forest-benchmarking(Used after quantum SVM)
 ## 6. Implementation and SDKs
 ### 6.1 Setup and Simple Coding Based on Popular SDKs
    * [Setup of Microsoft Q# and implementation of the Bell State](https://github.com/yangjy0826/Microsoft-Q-)
